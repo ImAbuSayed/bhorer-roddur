@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bhorer-roddur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bhorer Roddur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhorer-roddur/) |
+| **Get License** | [License this song: Bhorer Roddur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bhorer-roddur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ভোরের রোদ্দুর হয়ে ছুঁয়ে দেবো তোমার ওই গাল
+> শুরু হোক আজ থেকে আমাদের নতুন এক কাল
+> চোখে চোখ রেখে তুমি ভুলে যাও সব অভিমান
+> আমার এ হৃদয় জুড়ে শুধুই যে তোমারই স্থান
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
