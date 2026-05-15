@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bhorer Roddur
+
+This log tracks the cryptographic history and versioning for the song **Bhorer Roddur** (bhorer-roddur).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T03:53:58.751967 | `v1` | `9729e32d969e60e7ee8e15f9eb2480bdff685fff5774f5d26842afec939af689` | `d9ff85ec9b37e4d4c721cbce285eee9fdf1b39c59c5cc3dbd90e9ef9e7224d97` | `2026-05-16_bhorer-roddur-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
